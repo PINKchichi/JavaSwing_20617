@@ -28,7 +28,7 @@ public class HelloGridLayout extends JFrame{
 		jp.add(jb7);
 		
 		jp.setLayout(new GridLayout(0,3));
-		//dsadasdsad
+		
 		setTitle("¾È³ç ±×¸®µå·¹ÀÌ¾Æ¿ô");
 		setSize(500,500);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
