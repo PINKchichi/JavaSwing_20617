@@ -9,4 +9,4 @@ public class HelloSwing2 extends JFrame {
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setVisible(true);
  	}
-}
+}//

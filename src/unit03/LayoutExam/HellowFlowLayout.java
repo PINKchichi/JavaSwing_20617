@@ -27,7 +27,7 @@ public class HellowFlowLayout extends JFrame{
 		jp.add(jb6);
 		jp.add(jb7);
 		
-		
+		//
 		setTitle("¾È³ç ÇÃ·Î¿ì·¹ÀÌ¾Æ¿ô");
 		setSize(300,100);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);

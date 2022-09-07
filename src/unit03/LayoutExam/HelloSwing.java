@@ -8,7 +8,7 @@ public class HelloSwing extends JFrame{
 		setVisible(true);	
 	}
 	public static void main(String[] args) {
-		new HelloSwing();
+		new HelloSwing();//
 	}
 
 }

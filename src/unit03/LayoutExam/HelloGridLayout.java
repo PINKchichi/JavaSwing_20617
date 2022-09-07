@@ -26,7 +26,7 @@ public class HelloGridLayout extends JFrame{
 		jp.add(jb5);
 		jp.add(jb6);
 		jp.add(jb7);
-		
+		//
 		jp.setLayout(new GridLayout(0,3));
 		
 		setTitle("¾È³ç ±×¸®µå·¹ÀÌ¾Æ¿ô");
